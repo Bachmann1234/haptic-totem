@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "1a2fa3ca-8415-488c-b455-86762ac94aca",
+    "appType": "app",
+    "appDisplayName": "Haptic Totem",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "Haptic Totem"
+      }
+    }
+  }
+}
